@@ -49,3 +49,25 @@ DESCRIPTION
 10)After importing successfully.
 
 10)Open any browser and type http://localhost/Life-Saver-Connect/home.php to open User layout.
+## ADMIN PANEL
+
+Open any browser and type http://localhost/Life-Saver-Connect/admin/login.php to open Admin Login Panel.
+
+Enter Below Credentials to login to the Admin Panel.
+Username = varunsardana004
+Password = 123
+
+## TECHNOLOGIES USED IN THIS PROJECT
+ 
+
+- **PHP (Hypertext Preprocessor):** PHP is a robust server-side scripting language widely utilized in web development. In the **Life Saver Connect** platform, PHP is integral to handling server-side operations, including processing blood donation requests, managing user authentication, and interfacing with the database to store and retrieve information efficiently.  
+
+- **JavaScript:** JavaScript is a versatile programming language that enables dynamic and interactive features on web applications. For **Life Saver Connect**, it facilitates client-side interactions such as real-time notifications, user input validation, and managing asynchronous requests, ensuring a seamless user experience.  
+
+- **HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets):** HTML is employed for structuring web page content, while CSS defines the styling and layout. Together, they are used to craft the user interface and ensure the website’s design is visually appealing and intuitive.  
+
+- **Database (MySQL):** MySQL serves as the database management system for storing critical data such as user profiles, blood donation requests, and notifications. PHP interacts with the database to manage data efficiently, enabling quick and reliable access when needed.  
+
+- **Apache HTTP Server:** Apache is an open-source web server software responsible for delivering web pages and handling HTTP requests from users' browsers. In the **Life Saver Connect** platform, Apache is used to host and serve the website’s files, ensuring smooth and secure accessibility for users.  
+
+By integrating these technologies, **Life Saver Connect** delivers a robust, dynamic, and user-friendly solution to streamline blood donation processes in emergency situations.
