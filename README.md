@@ -12,3 +12,18 @@ HOW IT SOLVES THE PROBLEM
 3) This rapid response is vital in emergencies, where timely access to blood can make the difference between life and death. Furthermore, the platform provides patients with contact details of nearby donors, enabling prompt and direct communication to coordinate blood donation.  
 
 4) By optimizing the process of blood donation and distribution, **Life Saver Connect** serves as an essential tool, enhancing the efficiency and effectiveness of emergency medical care.
+
+
+IMAGES
+
+![Screenshot 2024-11-30 141158](https://github.com/user-attachments/assets/98ef35a4-41b5-43b3-b4ab-1aa055504440)
+
+![Screenshot 2024-11-30 141418](https://github.com/user-attachments/assets/f4481ee7-cf5f-440e-8a27-e364d16a8237)
+
+![Screenshot 2024-11-30 141538](https://github.com/user-attachments/assets/edc8738f-21f4-48e4-814f-ae702ce44e8e)
+
+![Screenshot 2024-11-30 141636](https://github.com/user-attachments/assets/0c3d346f-e020-45a4-8764-08eb6fe49b6b)
+
+![Screenshot 2024-11-30 141709](https://github.com/user-attachments/assets/c6d425b2-da1c-424f-9d89-1eb1dff74a77)
+
+
