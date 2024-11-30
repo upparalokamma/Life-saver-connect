@@ -32,7 +32,7 @@ DESCRIPTION
 
 2)Open XAMPP Control panal and start [apache] and [mysql] .
 
-3)Download project from github(https://github.com/Sharan07-github/Team-Dragoon).
+3)Download project from github(https://github.com/upparalokamma/Life-saver-connect).
 
 4)Extract files in C:\xampp\htdocs.
 
