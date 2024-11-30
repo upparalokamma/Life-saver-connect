@@ -5,10 +5,10 @@ DESCRIPTION
 
 HOW IT SOLVES THE PROBLEM
 
-**Life Saver Connect** addresses a critical challenge in emergency healthcare by efficiently bridging the gap between blood donors and recipients.  
+1) **Life Saver Connect** addresses a critical challenge in emergency healthcare by efficiently bridging the gap between blood donors and recipients.  
 
-In emergencies, finding the right blood type is often time-sensitive and logistically complex. This platform simplifies the process by allowing patients to request blood online, specifying their required blood type. Notifications are then sent to nearby blood banks and registered donors with compatible blood groups, significantly reducing the time needed to identify and connect with a suitable donor.  
+2) In emergencies, finding the right blood type is often time-sensitive and logistically complex. This platform simplifies the process by allowing patients to request blood online, specifying their required blood type. Notifications are then sent to nearby blood banks and registered donors with compatible blood groups, significantly reducing the time needed to identify and connect with a suitable donor.  
 
-This rapid response is vital in emergencies, where timely access to blood can make the difference between life and death. Furthermore, the platform provides patients with contact details of nearby donors, enabling prompt and direct communication to coordinate blood donation.  
+3) This rapid response is vital in emergencies, where timely access to blood can make the difference between life and death. Furthermore, the platform provides patients with contact details of nearby donors, enabling prompt and direct communication to coordinate blood donation.  
 
-By optimizing the process of blood donation and distribution, **Life Saver Connect** serves as an essential tool, enhancing the efficiency and effectiveness of emergency medical care.
+4) By optimizing the process of blood donation and distribution, **Life Saver Connect** serves as an essential tool, enhancing the efficiency and effectiveness of emergency medical care.
